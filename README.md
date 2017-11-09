@@ -30,4 +30,4 @@ This app is simple. Just use a TextClock in Android support and a CalenderView. 
 
 ### Developer
 Zeng Tianyu, a student in SYSU, Guangzhou, China. For more detail? Here is the link:
-<link>https://zengtianyu1215.github.io/Zengtianyu.io/</link>
+<link>https://zengtianyu1215.github.io/Zengtianyu.io/
