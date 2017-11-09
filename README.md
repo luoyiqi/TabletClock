@@ -1,6 +1,7 @@
 # TabletClock
-## A Simple Time & Calendar Application for Android Tablets
 <br><div style="text-align:center"><img src ="https://github.com/zengtianyu1215/TabletClock/raw/master/tabletclock.png" /></div>
+<br>
+## A Simple Time & Calendar Application for Android Tablets
 ---
 ### Abstract
 TabletClock is an Android Tablet Application for showing time and calendar. With the original idea of changing my MiPad 1 into a room control center, this app is for changing my clock and calendar, which are not so updated, into electronic forms. 
