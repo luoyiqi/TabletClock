@@ -13,12 +13,9 @@ TabletClock is an Android Tablet Application for showing time and calendar. With
 6. OLED friendly, especially AMOLED.
 
 ### Some photos of this app
-![avatar](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-04-44.png)
-TabletClock in Nexus 9
-![avatar](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-05-43.png)
-TabletClock in Nexus 7
-![avatar](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-05-57.png)
-TabletClock in MX5
+![TabletClock in Nexus 9](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-04-44.png)
+![TabletClock in Nexus 7](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-05-43.png)
+![TabletClock in MX5](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-05-57.png)
 
 ### Details for your device
 Android Api Level: 19 (Android 4.4) or higher;
