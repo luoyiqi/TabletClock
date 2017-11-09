@@ -22,6 +22,7 @@ TabletClock in MX5
 
 ### Details for Your Device
 Android Api Level: 19 (Android 4.4) or higher;
+Release Version: 1.0(beta)
 Display Type (recommended): AMOLED or On-cell display;
 Display Size (recommended): 7.9 inchs or higher;
 
@@ -30,4 +31,4 @@ This app is simple. Just use a TextClock in Android support and a CalenderView. 
 
 ### About the Developer
 Zeng Tianyu, a student in SYSU, Guangzhou, China. For more detail? Here is the link:
-<link>https://zengtianyu1215.github.io/Zengtianyu.io/
+**``https://zengtianyu1215.github.io/Zengtianyu.io/``**
