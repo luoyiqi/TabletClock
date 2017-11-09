@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:keepScreenOn="true"
+    tools:context="com.zengtianyu.tabletclock.MainActivity"
+    tools:layout_editor_absoluteY="89dp">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/coordinatorLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextClock
+                    android:id="@+id/textClock2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="bottom|center_horizontal"
+                    android:textColor="#ffffff"
+                    android:textSize="100sp"
+                    android:textStyle=""
+                    android:timeZone="GMT+8" />
+
+                <TextClock
+                    android:id="@+id/textClock3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.25"
+                    android:format12Hour="yyyy年MM月dd日, EEEE，aa"
+                    android:format24Hour="yyyy年MM月dd日, EEEE"
+                    android:gravity="top|center_horizontal"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+                android:id="@+id/cal"
+                style="@android:style/Widget.CalendarView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="100dp"
+                android:layout_marginTop="90dp"
+                android:layout_weight="1.5"
+                android:clickable="false"
+                android:focusable="false"
+                app:mcv_arrowColor="#ffffff"
+                app:mcv_calendarMode="month"
+                app:mcv_dateTextAppearance="@color/white"
+                app:mcv_firstDayOfWeek="sunday" />
+        </LinearLayout>
+
+    </android.support.design.widget.CoordinatorLayout>
+</android.support.constraint.ConstraintLayout>
