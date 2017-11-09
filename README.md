@@ -14,6 +14,8 @@ TabletClock is an Android Tablet Application for showing time and calendar. With
 
 ### Some photos of this app
 ![avatar](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-18-19-36.png)
+![avatar](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-18-23-24.png)
+TabletClock in MX5(Simulator) and Nexus 9.
 
 
 ### Details for your device
