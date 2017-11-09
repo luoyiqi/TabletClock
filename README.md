@@ -13,7 +13,7 @@ TabletClock is an Android Tablet Application for showing time and calendar. With
 6. OLED friendly, especially AMOLED.
 
 ### Some photos of this app
-![avatar](TabletClock/enframe_2017-11-09-18-19-36.png)
+![avatar](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-18-19-36.png)
 
 
 ### Details for your device
