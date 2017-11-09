@@ -15,11 +15,11 @@ TabletClock is an Android Tablet Application for showing time and calendar. With
 
 ### Some Photos of this App
 ![TabletClock in Nexus 9](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-04-44.png)
-<div style="text-align:center">TabletClock in Nexus 9</div>
+<center>TabletClock in Nexus 9</center>
 ![TabletClock in Nexus 7](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-05-43.png)
-<div style="text-align:center">TabletClock in Nexus 7</div>
+<center>TabletClock in Nexus 7</center>
 ![TabletClock in MX5](https://raw.githubusercontent.com/zengtianyu1215/TabletClock/master/enframe_2017-11-09-19-05-57.png)
-<div style="text-align:center">TabletClock in MX5</div>
+<center>TabletClock in MX5</center>
 
 ### Details for Your Device
 * Android Api Level: 19 (Android 4.4) or higher;
