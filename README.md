@@ -1,5 +1,6 @@
 # TabletClock
-<br><div style="text-align:center"><img src ="https://github.com/zengtianyu1215/TabletClock/raw/master/tabletclock.png" /></div>
+<br>
+<div style="text-align:center"><img src ="https://github.com/zengtianyu1215/TabletClock/raw/master/tabletclock.png" /></div>
 <br>
 ## A Simple Time & Calendar Application for Android Tablets
 ---
@@ -39,7 +40,7 @@ Zeng Tianyu, a student in SYSU, Guangzhou, China. For more detail? Here is the l
 **<https://github.com/zengtianyu1215/TabletClock/raw/master/app-release%201.0%20beta.apk>**
 <br>
 <br>
-<br><div style="text-align:center"><img src ="https://github.com/zengtianyu1215/TabletClock/raw/master/tabletclock.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/zengtianyu1215/TabletClock/raw/master/tabletclock.png" /></div>
 <br>
 <br>
 
