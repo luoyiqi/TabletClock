@@ -38,6 +38,7 @@ Zeng Tianyu, a student in SYSU, Guangzhou, China. For more detail? Here is the l
 <https://github.com/zengtianyu1215/TabletClock/raw/master/app-release%201.0%20beta.apk>
 <br>
 <div style="text-align:center"><img src ="https://github.com/zengtianyu1215/TabletClock/raw/master/tabletclock.png" /></div>
+ <a href="https://github.com/zengtianyu1215/TabletClock/raw/master/app-release%201.0%20beta.apk" class="btn">Download RELEASE 1.0 BETA</a>
 <br>
 <br>
 
